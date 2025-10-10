@@ -1,2 +1,0 @@
-# medjrnl
-medjrnl-files
